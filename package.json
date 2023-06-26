@@ -80,7 +80,7 @@
     "serve-static": "^1.15.0",
     "setprototypeof": "^1.2.0",
     "side-channel": "^1.0.4",
-    "simple-update-notifier": "^1.1.0",
+    "simple-update-notifier": "^2.0.0",
     "statuses": "^2.0.1",
     "supports-color": "^5.5.0",
     "to-regex-range": "^5.0.1",
